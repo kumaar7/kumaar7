@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kumaar7
 - 👀 I’m interested in ...Coding, WebDev, Programming Languages, Machine Learning, Data Science
 - 🌱 I’m currently learning ...WebDev
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...WebDev, Programming Languages, Coding
 - 📫 How to reach me ...kumaar1247@gmail.com
 
 <!---
